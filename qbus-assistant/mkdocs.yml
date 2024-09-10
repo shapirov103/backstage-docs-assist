@@ -1,0 +1,6 @@
+site_name: q-business-assistant
+site_description: Q Business Platform Assistant
+plugins:
+  - techdocs-core
+nav:
+  - Getting Started: index.md
